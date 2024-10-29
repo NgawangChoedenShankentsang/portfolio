@@ -30,7 +30,7 @@
       <p>Please contact for collaboration</p>
       <div class="font-mono mt-2">
         <p>================================</p>
-        <p>| VOID AFTER HIRING |</p>
+        <p>| NO RETURN AFTER HIRING |</p>
         <p>================================</p>
       </div>
       <p class="mt-4 font-mono text-[10px]">

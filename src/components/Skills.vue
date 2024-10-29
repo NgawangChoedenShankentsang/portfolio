@@ -3,7 +3,7 @@
     <h2 class="font-bold mb-2">SKILLS INVENTORY:</h2>
     <div v-for="skill in skills" :key="skill.name" class="flex justify-between text-sm my-1">
       <span>{{ skill.name }}</span>
-      <span class="font-mono">{{ skill.level }}</span>
+      <span class="font-mono bg-gray-100 text-gray-600">{{ skill.level }}</span>
     </div>
   </div>
 </template>
@@ -17,3 +17,6 @@ const skills = [
   { name: 'Tailwind', level: '[-----//////////]' },
 ]
 </script>
+
+
+

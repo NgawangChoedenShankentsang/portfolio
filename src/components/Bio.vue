@@ -17,9 +17,10 @@
       <div class="mt-3">
         <span class="text-gray-600">Hobbies:</span>
         <div class="flex flex-wrap gap-2 mt-1">
-          <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">🎮 Gaming</span>
+          <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">💻 Programming</span>
           <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">📚 Reading</span>
           <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">🎸 Music</span>
+          <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">🎮 Gaming</span>
           <span class="bg-gray-100 px-2 py-1 rounded-md text-xs">✈️ Travel</span>
         </div>
       </div>

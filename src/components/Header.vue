@@ -10,5 +10,12 @@
 import { ref } from 'vue'
 
 const currentYear = new Date().getFullYear()
-const currentDate = new Date().toLocaleDateString()
+const currentDate = formatDate(new Date())
+
+function formatDate(date) {
+  const day = String(date.getDate()).padStart(2, '0') // Ensure two digits
+  const month = String(date.getMonth() + 1).padStart(2, '0') // Months are zero-indexed
+  const year = date.getFullYear()
+  return `${day}/${month}/${year}`
+}
 </script>
