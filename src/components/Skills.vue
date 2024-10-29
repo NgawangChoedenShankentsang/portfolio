@@ -10,10 +10,10 @@
 
 <script setup>
 const skills = [
-  { name: 'Symfony PHP', level: '███████████' },
-  { name: 'TypeScript', level: '████████' },
-  { name: 'Vue.js', level: '███████' },
-  { name: 'Git', level: '██████████' },
-  { name: 'Tailwind', level: '████████' },
+  { name: 'Symfony PHP', level: '[--/////////////]' },
+  { name: 'TypeScript', level: '[------/////////]' },
+  { name: 'Vue.js', level: '[-----//////////]' },
+  { name: 'Git', level: '[--/////////////]' },
+  { name: 'Tailwind', level: '[-----//////////]' },
 ]
 </script>
