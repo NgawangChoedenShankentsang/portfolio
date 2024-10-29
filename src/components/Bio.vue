@@ -4,7 +4,7 @@
     <div class="space-y-2 text-sm">
       <div class="flex justify-between">
         <span class="text-gray-600">Name:</span>
-        <span>Your Name</span>
+        <span>Ngawang</span>
       </div>
       <div class="flex justify-between">
         <span class="text-gray-600">Role:</span>
@@ -12,7 +12,7 @@
       </div>
       <div class="flex justify-between">
         <span class="text-gray-600">Location:</span>
-        <span>Your Location</span>
+        <span>Bern, Swiss</span>
       </div>
       <div class="mt-3">
         <span class="text-gray-600">Hobbies:</span>
