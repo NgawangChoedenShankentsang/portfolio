@@ -15,7 +15,7 @@
 <script setup>
 const projects = [
   {
-    name: 'License Management Tool (LMT)',
+    name: 'License Management Tool',
     description: 'Tool for managing software licenses.',
     tech: 'Symfony 6.4, MySQL',
     price: '3,000'
@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'Bg-Remove Tool',
     description: 'Removing backgrounds from images.',
-    tech: 'Vue.js, @imgly/background-removal',
+    tech: 'Vue.js, npm',
     price: '1,500'
   },
   {
