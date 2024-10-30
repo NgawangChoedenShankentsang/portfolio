@@ -7,7 +7,15 @@
         <span>${{ project.price }}</span>
       </div>
       <p class="text-xs text-gray-600">{{ project.description }}</p>
-      <p class="text-xs text-gray-500">Stack: {{ project.tech }}</p>
+      <p class="text-xs text-gray-500">
+        Stack: 
+        <span v-if="project.name === 'Bg-Remove Tool'">Vue.js, 
+          <a href="https://www.npmjs.com/package/@imgly/background-removal" target="_blank" class="text-blue-500 hover:underline">
+            npm
+          </a>
+        </span>
+        <span v-else>{{ project.tech }}</span>
+      </p>
     </div>
   </div>
 </template>
@@ -23,7 +31,6 @@ const projects = [
   {
     name: 'Bg-Remove Tool',
     description: 'Removing backgrounds from images.',
-    tech: 'Vue.js, npm',
     price: '1,500'
   },
   {
