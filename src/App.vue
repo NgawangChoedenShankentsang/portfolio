@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gray-100 py-8 px-4">
+  <div class="min-h-screen bg-gray-300 py-8 px-4">
     <div class="receipt max-w-md mx-auto bg-white p-6">
       <Header />
       <Bio />
