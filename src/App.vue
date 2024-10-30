@@ -5,7 +5,7 @@
       <Bio />
       <Skills />
       <Projects />
-      <Achievements />
+      <!-- <Achievements /> -->
       <Contact />
     </div>
   </div>
@@ -16,6 +16,6 @@ import Header from './components/Header.vue'
 import Bio from './components/Bio.vue'
 import Skills from './components/Skills.vue'
 import Projects from './components/Projects.vue'
-import Achievements from './components/Achievements.vue'
+// import Achievements from './components/Achievements.vue'
 import Contact from './components/Contact.vue'
 </script>

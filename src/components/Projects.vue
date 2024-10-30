@@ -15,22 +15,22 @@
 <script setup>
 const projects = [
   {
-    name: 'E-commerce Platform',
-    description: 'Full-stack shopping platform',
-    tech: 'Vue.js, Node.js, MongoDB',
-    price: '2,500'
+    name: 'License Management Tool (LMT)',
+    description: 'Tool for managing software licenses.',
+    tech: 'Symfony 6.4, MySQL',
+    price: '3,000'
   },
   {
-    name: 'Weather Dashboard',
-    description: 'Real-time weather tracking',
-    tech: 'Vue.js, OpenWeather API',
-    price: '1,200'
+    name: 'Bg-Remove Tool',
+    description: 'Removing backgrounds from images.',
+    tech: 'Vue.js, @imgly/background-removal',
+    price: '1,500'
   },
   {
-    name: 'Task Manager',
-    description: 'Collaborative project tool',
-    tech: 'Vue.js, Firebase',
-    price: '1,800'
+    name: 'Himalaya Imbiss',
+    description: 'POS system for our Imbiss.',
+    tech: 'Vite, TypeScript, TW CSS',
+    price: '2,200'
   }
 ]
 </script>
