@@ -16,7 +16,7 @@
 const projects = [
   {
     name: 'License Management Tool',
-    description: 'Tool for managing software licenses.',
+    description: 'Managing software licenses.',
     tech: 'Symfony 6.4, MySQL',
     price: '3,000'
   },
